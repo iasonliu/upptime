@@ -4,17 +4,19 @@
     "url": "https://42devops.com",
     "icon": "https://favicons.githubusercontent.com/42devops.com",
     "slug": "42-devops",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 82,
-    "timeWeek": 96,
+    "timeDay": 76,
+    "timeWeek": 93,
     "timeMonth": 84,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
